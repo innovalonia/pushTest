@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-   
+    NSLog(@"NEw string");
 }
 
 @end
